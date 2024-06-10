@@ -1,1 +1,1 @@
-# Gitter-Analysis-of-Real-time-Data-Torsboda
+# Jitter-Analysis-of-Real-time-Data-Torsboda
